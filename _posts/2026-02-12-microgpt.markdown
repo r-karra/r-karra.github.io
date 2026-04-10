@@ -29,6 +29,7 @@ Where to find it:
 - This GitHub gist has the full source code: [microgpt.py](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)
 - It's also available on this web page: [https://karpathy.ai/microgpt.html](https://karpathy.ai/microgpt.html)
 - Also available as a [Google Colab notebook](https://colab.research.google.com/drive/1vyN5zo6rqUp_dYNbT4Yrco66zuWCZKoN?usp=sharing)
+- **NEW** and fun: Due to popular demand you can now purchase microgpt as a triptych! See my store at [karpathy.art](https://karpathy.art) :)
 
 The following is my guide on stepping an interested reader through the code.
 
