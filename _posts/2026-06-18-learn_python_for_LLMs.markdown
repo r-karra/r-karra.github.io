@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Learn Python with the Feynman Technique"
 excerpt: "An intuitive guide to Python concepts including Lists, Dictionaries, Comprehensions, Lambda functions, Decorators, Generators, Type Hinting, and Constructors."
-date: 2026-06-18 22:00:00
+date: 2026-06-18 07:00:00
 ---
 
 # Learn Python with me using the Feynman technique
